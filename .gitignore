@@ -4,6 +4,7 @@ resources/_gen/
 
 # Hugo binary (if downloaded locally)
 hugo
+hugo_*
 
 # Operating system files
 .DS_Store
@@ -25,3 +26,9 @@ node_modules/
 # Environment files
 .env
 .env.local
+
+# Downloaded archives and binaries
+*.tar.gz
+*.zip
+*.tar
+*.gz

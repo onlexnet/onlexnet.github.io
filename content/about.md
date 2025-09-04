@@ -1,9 +1,9 @@
 +++
 date = '2025-09-04T20:23:18Z'
 draft = false
-title = 'O nas'
+title = 'About Us'
 +++
 
-# O nas
+# About Us
 
-Jesteśmy doświadczonym zespołem prawników świadczących kompleksowe usługi prawne.
+We are an experienced team of lawyers providing comprehensive legal services.

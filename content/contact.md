@@ -1,13 +1,13 @@
 +++
 date = '2025-09-04T20:23:18Z'
 draft = false
-title = 'Kontakt'
+title = 'Contact'
 +++
 
-# Kontakt
+# Contact
 
-Skontaktuj się z nami:
+Get in touch with us:
 
-**Adres:** ul. Przykładowa 123, 00-000 Warszawa  
-**Telefon:** +48 123 456 789  
-**Email:** kontakt@onlex.net
+**Address:** 123 Example Street, 00-000 Warsaw  
+**Phone:** +48 123 456 789  
+**Email:** contact@onlex.net

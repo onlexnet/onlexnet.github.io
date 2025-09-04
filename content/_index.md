@@ -1,7 +1,7 @@
 +++
 date = '2025-09-04T20:23:18Z'
 draft = false
-title = 'OnLex - Nazwa Twojej Firmy'
+title = 'OnLex - Your Legal Partner'
 +++
 
-Witamy na stronie OnLex! Jesteśmy firmą świadczącą usługi prawne.
+Welcome to OnLex! We are a law firm providing comprehensive legal services.

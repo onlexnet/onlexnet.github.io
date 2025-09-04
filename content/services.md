@@ -1,14 +1,14 @@
 +++
 date = '2025-09-04T20:23:18Z'
 draft = false
-title = 'Usługi'
+title = 'Services'
 +++
 
-# Nasze usługi
+# Our Services
 
-Oferujemy szeroki zakres usług prawnych:
+We offer a wide range of legal services:
 
-- Prawo cywilne
-- Prawo gospodarcze  
-- Doradztwo prawne
-- Reprezentacja w sądach
+- Civil Law
+- Business Law
+- Legal Consulting
+- Court Representation

@@ -2,6 +2,7 @@
 public/
 resources/_gen/
 
+
 # Hugo binary (if downloaded locally)
 hugo
 hugo_*
@@ -11,6 +12,7 @@ hugo_*
 Thumbs.db
 
 # IDE/Editor files
+
 .vscode/
 .idea/
 *.swp

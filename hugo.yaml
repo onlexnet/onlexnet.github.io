@@ -1,0 +1,23 @@
+baseURL: 'https://onlex.net'
+languageCode: 'pl-pl'
+title: 'OnLex - Nazwa Twojej Firmy'
+theme: 'ananke'
+
+params:
+  description: "Opis Twojej firmy"
+  author: "OnLex"
+  
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 10
+    - name: "O nas"
+      url: "/about/"
+      weight: 20
+    - name: "Usługi"
+      url: "/services/"
+      weight: 30
+    - name: "Kontakt"
+      url: "/contact/"
+      weight: 40

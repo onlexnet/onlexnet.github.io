@@ -18,3 +18,10 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.log
+
+# Node modules (if using npm/yarn for themes)
+node_modules/
+
+# Environment files
+.env
+.env.local

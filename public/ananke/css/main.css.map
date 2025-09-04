@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/workspaces/onlex-website",
+	"sourceRoot": "/home/runner/work/onlex-website/onlex-website",
 	"sources": [
 		"ananke/css/main.css"
 	],

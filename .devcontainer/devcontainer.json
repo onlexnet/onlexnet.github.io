@@ -20,7 +20,14 @@
 	// https://stackoverflow.com/a/75644266
 	"mounts": [
 		"type=bind,source=/home/${localEnv:USER}/.ssh,target=/home/vscode/.ssh"
-	]
+	],
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"github.vscode-github-actions"
+			]
+		}
+	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},

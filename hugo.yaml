@@ -12,12 +12,4 @@ menu:
     - name: "Home"
       url: "/"
       weight: 10
-    - name: "O nas"
-      url: "/about/"
-      weight: 20
-    - name: "Usługi"
-      url: "/services/"
-      weight: 30
-    - name: "Kontakt"
-      url: "/contact/"
-      weight: 40
+  # No subpages in navigation, only homepage

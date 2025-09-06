@@ -1,7 +1,15 @@
 +++
 date = '2025-09-04T20:23:18Z'
 draft = false
-title = 'OnLex - Your Legal Partner'
+title = 'OnLex - Software Company'
 +++
 
-Welcome to OnLex! We are a law firm providing comprehensive legal services.
+OnLex is a software company specializing in custom software development and IT consulting services.
+
+We deliver modern, scalable solutions for businesses of all sizes.
+
+Contact us for more information.
+
+Note: This website is for informational purposes only.
+
+This page does not present the full offer. For complete details, please contact us directly.

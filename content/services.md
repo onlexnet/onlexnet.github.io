@@ -6,10 +6,12 @@ title = 'Services'
 
 # Our Services
 
-We offer a wide range of legal services:
+We offer a wide range of services to meet your business needs:
 
 - IT Consulting
 - System Integration
 - Cloud Solutions
 - Architecture Design
 - Software Development
+
+

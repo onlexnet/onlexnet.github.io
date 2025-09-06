@@ -1,11 +1,11 @@
 baseURL: 'https://onlex.net'
 languageCode: 'pl-pl'
-title: 'OnLex - Nazwa Twojej Firmy'
+title: 'OnLex.net'
 theme: 'ananke'
 
 params:
-  description: "Opis Twojej firmy"
-  author: "OnLex"
+  description: "OnLex.net - software development and consulting services."
+  author: "OnLex.net"
   
 menu:
   main:

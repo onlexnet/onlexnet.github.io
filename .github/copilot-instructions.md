@@ -86,8 +86,8 @@ Always reference these instructions first and fallback to search or bash command
 - All content files are in `content/` directory
 - Content uses Hugo front matter format with TOML (+++...+++)
 - All content is currently marked as `draft = true`
-- Site language is set to Polish (`languageCode: 'pl-pl'`)
-- Site title: "OnLex - Nazwa Twojej Firmy"
+- Site language is set to English (`languageCode: 'pl-GB'`)
+- Site title: "OnLex.net"
 
 ### Theme Information
 - Uses Ananke theme as git submodule

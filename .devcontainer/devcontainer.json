@@ -6,7 +6,8 @@
 	"image": "mcr.microsoft.com/devcontainers/base:noble",
 	"features": {
 		"ghcr.io/devcontainers/features/hugo:1": {
-			"version": "latest"
+			"version": "latest",
+			"extended": true
 		},
 		"ghcr.io/devcontainers/features/node:1": {
 			"nodeGypDependencies": true,
@@ -24,7 +25,8 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"github.vscode-github-actions"
+				"github.vscode-github-actions",
+				"GitHub.vscode-pull-request-github"
 			]
 		}
 	}

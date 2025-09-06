@@ -8,7 +8,8 @@ title = 'Services'
 
 We offer a wide range of legal services:
 
-- Civil Law
-- Business Law
-- Legal Consulting
-- Court Representation
+- IT Consulting
+- System Integration
+- Cloud Solutions
+- Architecture Design
+- Software Development

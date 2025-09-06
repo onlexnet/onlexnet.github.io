@@ -6,4 +6,6 @@ title = 'About Us'
 
 # About Us
 
-We are an experienced team of lawyers providing comprehensive legal services.
+We are an experienced team of software developers and IT consultants.
+
+The page is for informational purposes only.

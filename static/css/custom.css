@@ -1,0 +1,13 @@
+/* Zwiększ szerokość artykułów */
+article {
+    max-width: 60rem !important;
+}
+
+/* Nadpisz inne klasy ograniczające szerokość */
+.mw7 {
+    max-width: 60rem !important;
+}
+
+.measure {
+    max-width: 40rem !important;
+}

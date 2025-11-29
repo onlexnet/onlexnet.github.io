@@ -18,6 +18,9 @@ menu:
     - name: "Services"
       url: "/services/"
       weight: 15
+    - name: "Terms of Service"
+      url: "/terms_of_service/"
+      weight: 18
     - name: "Privacy Policy"
       url: "/privacy_policy/"
       weight: 20

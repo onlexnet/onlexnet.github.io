@@ -1,13 +1,23 @@
 /* Zwiększ szerokość artykułów */
 article {
-    max-width: 60rem !important;
+    max-width: 90rem !important;
 }
 
 /* Nadpisz inne klasy ograniczające szerokość */
-.mw7 {
-    max-width: 60rem !important;
+.mw7, .mw8 {
+    max-width: 90rem !important;
 }
 
-.measure {
-    max-width: 40rem !important;
+.measure, .measure-wide {
+    max-width: 80rem !important;
+}
+
+/* Dodatkowe klasy związane z szerokością */
+.center {
+    max-width: 90rem !important;
+}
+
+/* Kontener dla treści artykułu */
+.nested-copy-line-height {
+    max-width: 100% !important;
 }

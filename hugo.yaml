@@ -6,6 +6,7 @@ theme: 'ananke'
 params:
   description: "OnLex.net - software development and consulting services."
   author: "OnLex.net"
+  custom_css: ["/css/custom.css"]
   
 menu:
   main:

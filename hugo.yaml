@@ -15,4 +15,9 @@ menu:
     - name: "Home"
       url: "/"
       weight: 10
-  # No subpages in navigation, only homepage
+    - name: "Services"
+      url: "/services/"
+      weight: 15
+    - name: "Privacy Policy"
+      url: "/privacy_policy/"
+      weight: 20

@@ -1,7 +1,7 @@
 +++
 date = '2025-09-04T20:23:18Z'
 draft = false
-title = 'OnLex - Software Company'
+title = 'OnLex.net - Software Company'
 +++
 
 OnLex is a software company specializing in custom software development and IT consulting services.

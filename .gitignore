@@ -1,12 +1,3 @@
-# Hugo build outputs
-public/
-resources/_gen/
-
-
-# Hugo binary (if downloaded locally)
-hugo
-hugo_*
-
 # Operating system files
 .DS_Store
 Thumbs.db
@@ -22,15 +13,6 @@ Thumbs.db
 *.tmp
 *.log
 
-# Node modules (if using npm/yarn for themes)
-node_modules/
-
 # Environment files
 .env
 .env.local
-
-# Downloaded archives and binaries
-*.tar.gz
-*.zip
-*.tar
-*.gz
